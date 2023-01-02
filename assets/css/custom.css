@@ -44,4 +44,12 @@ footer
     }
     
 }
+@media (max-width:576px)
+{
+    .navbar-brand
+    {
+        display: none;
+    }
+}
+
 
