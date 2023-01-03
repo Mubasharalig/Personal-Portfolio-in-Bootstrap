@@ -16,7 +16,6 @@ html
 .carousel-item
 {
  object-fit: cover;
- /* height: 93vh; */
 
 }
 .img-fluid {
